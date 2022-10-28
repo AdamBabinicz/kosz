@@ -46,7 +46,7 @@ const NavContent = ({ setMenuOpen }) => (
         Kontakt
       </a>
     </div>
-    <a href="puaro@vp.pl">
+    <a href="mailto:puaro@vp.pl">
       <button>Email</button>
     </a>
   </>
