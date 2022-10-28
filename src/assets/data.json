@@ -1,0 +1,109 @@
+{
+  "projects": [
+    {
+      "title": "1",
+      "description": "Na skutek postępującej od dzieciństwa choroby, w wieku 12 lat został niewidomy.",
+      "url": "https://hi-fi.com.pl/artyku%C5%82y/muzyka/sylwetki/1090-mieczyslaw-kosz-zycie-jest-dramatyczna-przygoda.html",
+      "imgSrc": "/assets/3.jpg"
+    },
+
+    {
+      "title": "2",
+      "description": "Jego styl łączył pianistykę jazzową z tradycjami muzyki romantycznej i charakterystycznymi nawiązaniami melodycznymi do polskiego folkloru.",
+      "url": "https://zyciorysy.info/mieczyslaw-kosz",
+      "imgSrc": "assets/4.jpg"
+    },
+    {
+      "title": "3",
+      "description": "Pod względem stylistycznym porównywano go do Billa Evansa, z którym łączył Mieczysława Kosza podobny stosunek do formy i melodyki.",
+      "url": "https://viva.pl/kultura/legenda-mietka-kosza-film-muzyka-smierc-biografia-121357-r1",
+      "imgSrc": "assets/2.jfif"
+    },
+
+    {
+      "title": "4",
+      "description": "W 1967 dokonał pierwszych nagrań dla Polskiego Radia.",
+      "url": "https://polskieradio24.pl/130/6808/artykul/2379047,mieczyslaw-kosz-tragiczny-los-wybitnego-pianisty",
+      "imgSrc": "assets/6.jpg"
+    },
+    {
+      "title": "5",
+      "description": "Nagrania te dały początek szerszemu zainteresowaniu sztuką ociemniałego pianisty. ",
+      "url": "https://film.wp.pl/bezradny-geniusz-jazzu-prawdziwa-historia-mieczyslawa-kosza-6436101544048769a",
+      "imgSrc": "assets/7.jpg"
+    },
+    {
+      "title": "6",
+      "description": "Współpraca ze znanymi muzykami, m.in. Czesławem Bartkowskim, Jackiem Ostaszewskim, Bronisławem Suchankiem, Januszem Stefańskim i Janem ‘Ptaszynem’ Wróblewskim, udział w festiwalach Jazz Jamboree i Jazz nad Odrą oraz nagrody w konkursach zagranicznych (Wiedniu, Mönchengladbach, Montreux) zapewniły mu uznanie środowiska jazzowego i słuchaczy.",
+      "url": "https://jazzpress.pl/wyroznione/mistrzowie-polskiego-jazzu-vol-3-mieczyslaw-kosz",
+      "imgSrc": "/assets/8.jpg"
+    },
+
+    {
+      "title": "7",
+      "description": "Zginął tragicznie, wypadając z okna mieszkania. Istnieje hipoteza, że było to samobójstwo.",
+      "url": "https://www.muzeumjazzu.pl/mieczyslaw-kosz",
+      "imgSrc": "assets/9.jpg"
+    },
+    {
+      "title": "8",
+      "description": "Został pochowany we wsi Tarnawatka (przy trasie Zamość – Tomaszów Lubelski).",
+      "url": "https://kultura.onet.pl/mieczyslaw-kosz",
+      "imgSrc": "assets/10.jpg"
+    },
+
+    {
+      "title": "9",
+      "description": "Imię pianisty nosi Stowarzyszenie „Zamojski Klub Jazzowy im. Mieczysława Kosza” w Zamościu.",
+      "url": "https://krainabugu.pl/mieczyslaw-kosz-czekanie-na-piekno",
+      "imgSrc": "assets/11.jpg"
+    },
+    {
+      "title": "10",
+      "description": "Jego pamięć uczcił zespół RGG Trio, dedykując mu płytę Unfinished Story – Remembering Kosz (Ecnalubma Records, 2007).",
+      "url": "https://www.filmweb.pl/film/Ikar.+Legenda+Mietka+Kosza-2019-813571",
+      "imgSrc": "assets/12.jpg"
+    },
+    {
+      "title": "11",
+      "description": "18 października 2019 miała miejsce premiera polska filmu fabularnego Ikar. Legenda Mietka Kosza w reżyserii Macieja Pieprzycy z Dawidem Ogrodnikiem w roli tytułowej.",
+      "url": "https://naekranie.pl/lekkie/mietek-kosz-choroba-smierc-prawdziwa-historia-1665756278",
+      "imgSrc": "/assets/13.jpg"
+    },
+
+    {
+      "title": "12",
+      "description": "Inspiracją dla Macieja Pieprzycy była książka z 1990 Krzysztofa Karpińskiego Tylko smutek jest piękny. Opowieść o Mieczysławie Koszu (nowe uzupełnione wydanie pod tym samym tytułem ukazało się w 2019.",
+      "url": "http://jazzforum.com.pl/main/cd/reminiscence",
+      "imgSrc": "assets/1.webp"
+    },
+    {
+      "title": "13",
+      "description": "W październiku 2019 wychodzi też książka autorstwa reżysera filmu. Jest ona inspirowana życiem muzyka i przedstawia jego biografię z intymnej, pierwszoosobowej perspektywy, skupiając się na odczuciach i wrażeniach, jakimi mógłby się podzielić sam Kosz, gdyby nie jego tragiczna śmierć.",
+      "url": "https://ksiazka.net.pl/biografia-mieczyslawa-kosza-premiera-juz-we-wrzesniu",
+      "imgSrc": "assets/2.jpg"
+    }
+  ],
+  "projects1": [
+    {
+      "date1": "Muza 1969",
+      "title1": "New Faces in Polish Jazz (Jazz Jamboree ’69)"
+    },
+    {
+      "date1": "Muza 1971",
+      "title1": "Reminiscence"
+    },
+    {
+      "date1": "PolJaz PSJ 1975",
+      "title1": "Mieczysław Kosz Trio vol.1–2"
+    },
+    {
+      "date1": "Polonia Records",
+      "title1": "The Complete Recordings vol.1–2"
+    },
+    {
+      "date1": "Polonia PSJ",
+      "title1": "Explastation Randers Audio vol.1–3"
+    }
+  ]
+}
