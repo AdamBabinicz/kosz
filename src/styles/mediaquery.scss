@@ -343,15 +343,15 @@
 
   #services {
     height: max-content;
-    display: flex;
-    flex-direction: column;
-    justify-self: center;
-    align-items: center;
-    background: green;
 
     > section {
-      grid-template-columns: repeat(2, 1fr);
-      gap: 1rem;
+      display: flex;
+      flex-direction: column;
+      justify-self: center;
+      align-items: center;
+      background: yellow;
+      // grid-template-columns: repeat(2, 1fr);
+      // gap: 1rem;
 
       .serviceBox1 {
         grid-column: 1/3;
@@ -365,7 +365,6 @@
       .serviceBox4 {
         grid-column: 1/3;
         padding: 1rem;
-        grid-row: unset;
       }
     }
   }
