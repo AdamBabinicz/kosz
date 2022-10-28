@@ -342,12 +342,13 @@
   }
 
   #services {
-    height: 100%;
-    width: 100%;
-    background: red;
+    max-width: 100%;
+    height: max-content;
+    background: orange;
+    padding: 1rem;
 
     > section {
-      margin: 1rem;
+      margin: auto;
       grid-template-columns: repeat(2, 1fr);
       gap: 1rem;
 
