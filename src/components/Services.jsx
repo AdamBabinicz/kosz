@@ -39,8 +39,8 @@ const Services = () => {
             <GiBandit />
           </h3>
           <p>
-            Przyciągał rozmaitych oszustów, którzy wykorzystywali jego sławę i
-            pieniądze
+            Przyciągał rozmaitych oszustów, którzy wykorzystywali jego sławę
+            i&nbsp;pieniądze
           </p>
         </motion.div>
         <motion.div
@@ -64,8 +64,8 @@ const Services = () => {
         >
           <FiHeart />
           <span>
-            W miłości też nie miał szczęścia. Nie ożenił się i nie miał dzieci,
-            mimo że wiązał się z różnymi kobietami
+            W miłości też nie miał szczęścia. Nie ożenił się i&nbsp;nie miał
+            dzieci, mimo że wiązał się z&nbsp;różnymi kobietami
           </span>
         </motion.div>
         <motion.div
