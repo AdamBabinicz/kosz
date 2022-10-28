@@ -349,6 +349,7 @@
       flex-direction: column;
       justify-self: center;
       align-items: center;
+      text-align: left;
       // grid-template-columns: repeat(2, 1fr);
       // gap: 1rem;
 
@@ -380,6 +381,12 @@
     grid-template-columns: 1fr;
     > aside {
       display: none;
+    }
+  }
+  .footer {
+    > p {
+      width: 80%;
+      text-align: left;
     }
   }
 }

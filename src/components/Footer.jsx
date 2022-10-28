@@ -6,7 +6,7 @@ import img from "../assets/2.jfif";
 const Footer = () => {
   return (
     <footer>
-      <div>
+      <div className="footer">
         <img src={img} alt="Founder" />
 
         <h2>„Polski Bill Evans”</h2>
