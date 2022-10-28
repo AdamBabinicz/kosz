@@ -8,7 +8,7 @@ import { BiDrink } from "react-icons/bi";
 const Testimonial = () => {
   return (
     <div id="testimonial">
-      <h2>Mietek Kosz i jego ...</h2>
+      <h2>Mietek Kosz i&nbsp;jego ...</h2>
       <section>
         <TestimonialCard
           name={<Gi3DGlasses />}
