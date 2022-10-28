@@ -343,9 +343,13 @@
 
   #services {
     height: max-content;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+    background: green;
 
     > section {
-      margin: auto;
       grid-template-columns: repeat(2, 1fr);
       gap: 1rem;
 
@@ -361,6 +365,7 @@
       .serviceBox4 {
         grid-column: 1/3;
         padding: 1rem;
+        grid-row: unset;
       }
     }
   }
